@@ -1,2 +1,3 @@
-# interesting_stuff
-this repo has many of the links that I wish to watch when I am free. :)
+## Some interesting links
+1. [Building an 8-bit breadboard computer ! - Playlist by Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
+2. [Computer Hardware : web.stanford.edu](https://web.stanford.edu/class/cs101/hardware-1.html)
