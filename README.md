@@ -7,3 +7,4 @@
 ---
 ## Resources related to Data Structrues and Algorithms, C++ ...
 1. [How to use lambda expression to sort a vector of custom objects (since C++11)](https://www.walletfox.com/course/sortvectorofcustomobjects11.php) => This website has many other useful articles.
+2. [C++ : How to Sort a List of objects with custom Comparator or lambda function](https://thispointer.com/c-how-to-sort-a-list-of-objects-with-custom-comparator-or-lambda-function/)
